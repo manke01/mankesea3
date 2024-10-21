@@ -1,1 +1,1 @@
-Game:GetService('ReplicatedStorage').Remotes['CommF_']:InvokeServer('TravelDressrosa')
+game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("TravelZou")
